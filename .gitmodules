@@ -1,0 +1,3 @@
+[submodule "ZeroLearningPython"]
+	path = ZeroLearningPython
+	url = git@github.com:coltensu/ZeroLearningPython.git
